@@ -22,4 +22,4 @@ comedy = Comedy()
 print(comedy.add_movie('Большой куш'))
 
 drama = Drama()
-print(drama.add_movie('Оружейный барон'))
+print(drama.add_movie('Оружейный барон')) #1

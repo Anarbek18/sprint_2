@@ -25,4 +25,4 @@ class EmployeeSalary:
         cls.hourly_payment = payment
 
     def salary(self):
-        return self.get_hours() * self.hourly_payment
+        return self.get_hours() * self.hourly_payment #1

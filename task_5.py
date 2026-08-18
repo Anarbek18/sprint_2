@@ -50,4 +50,4 @@ for method in [
     hockey_team.number_of_losses,
     hockey_team.total_points
 ]:
-    print(method())
+    print(method()) #1
